@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @manchr3
+/src/backend/database.py      @manchr3
+/src/backend/routers/auth.py  @manchr3
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @manchr3
